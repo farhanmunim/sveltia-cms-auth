@@ -2,3 +2,6 @@ name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
 keep_vars = true
+
+[vars]
+ALLOWED_DOMAINS = "sveltia.farhan.app, sveltia-8p2.pages.dev"
